@@ -1,0 +1,16 @@
+  ##use the key xxx
+  1 git clone the 'hen' of peter 
+  2 cd hen 
+  3 vim README (first install these packages:
+  
+      sudo apt-get install libncurses5 libncurses5-dev
+      
+      Next:
+      
+          make
+          sudo make install)  --mean mv xxx /bin [many project belong to bin]
+  4 when you run the 'make' command,you must have the 'Makefile' in your directo    -ry
+  ##It's funtion
+   xxx file  --can go to the project which have the 'file'
+   如果有段错误就把二进制文件‘xxx‘删除即可
+
