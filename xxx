@@ -12,5 +12,6 @@
   4 when you run the 'make' command,you must have the 'Makefile' in your directo    -ry
   ##It's funtion
    xxx file  --can go to the project which have the 'file'
-   如果有段错误就把二进制文件‘xxx‘删除即可
-
+  输入e (edit)
+  如果有段错误就把二进制文件‘xxx‘删除即可
+  
